@@ -1,5 +1,5 @@
 ## Common Documents
-New application must be included within those doments with appropriate information
+New applications must be included within below documents with appropriate information
 - [Terms of Service](https://alexstepanischev.github.io/terms-and-conditions/common/termsofservice)
 
 ## Individual documents
