@@ -116,12 +116,16 @@ Judicially recognition of the invalidity of certain provisions of this Agreement
 ## Annex
 This Agreement contains the following annexes which are its integral part (and also are an independent legal documents):
 - Annex №1 (consent to processing personal data and other regulations regarding processing personal data of Users):
--– [Privacy Policy](https://alexstepanischev.github.io/WeatherDock/privacypolicy).
+1. Weather Dock [Privacy Policy](https://alexstepanischev.github.io/WeatherDock/privacypolicy).
+2. Magda's Map (Mapa Magdy) [Privacy Policy](https://alexstepanischev.github.io/terms-and-conditions/MapaMagdy/privacypolicy)
 
 ## Contact us
-If you have any questions concerning these **Terms of Service** or any of Applications, please contact us via [Weather Dock App](https://t.me/weather_dock_app) Telegram chat or WhatsApp [Weather Dock App](https://chat.whatsapp.com/FtHmQLWtE4jBijg1THdgBJ) group.
+If you have any questions concerning these **Terms of Service** or any of Applications, please contact us via 
+- Weather Doc App [Telegram chat](https://t.me/weather_dock_app) or [WhatsApp group](https://chat.whatsapp.com/FtHmQLWtE4jBijg1THdgBJ)
+- Magda's Map (Mapa Magdy) App [Telegram chat](https://t.me/mapa_magdy_app) or [WhatsApp group](https://chat.whatsapp.com/EPfKRY3v8og0ZqHuR4bHfj)
+
 Normally we respond within 24 hours, sometimes response time can rise.
 
  ---
 
-**Last updated** 7th of October, 2023
+**Last updated** 30th of November, 2025
