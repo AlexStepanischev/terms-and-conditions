@@ -18,7 +18,7 @@ You agree that in this agreement the following words and combinations of words a
 “Applications” – applications, websites, tools or services, including but not limited:
 
 Desktop applications: 
-- **Weather Dock**
+- [**Weather Dock**](https://apps.apple.com/us/app/weather-dock/id1624480719)
 
 iOS applications:
 - **Magda's Map (Mapa Magdy)**
