@@ -116,7 +116,7 @@ Judicially recognition of the invalidity of certain provisions of this Agreement
 ## Annex
 This Agreement contains the following annexes which are its integral part (and also are an independent legal documents):
 - Annex №1 (consent to processing personal data and other regulations regarding processing personal data of Users):
-1. Weather Dock [Privacy Policy](https://alexstepanischev.github.io/WeatherDock/privacypolicy).
+1. Weather Dock [Privacy Policy](https://alexstepanischev.github.io/terms-and-conditions/WeatherDock/privacypolicy)
 2. Magda's Map (Mapa Magdy) [Privacy Policy](https://alexstepanischev.github.io/terms-and-conditions/MapaMagdy/privacypolicy)
 
 ## Contact us
